@@ -1,0 +1,50 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+}
+
+/* Encabezado */
+header {
+    background-color: #333;
+    color: white;
+    padding: 15px;
+}
+
+/* Menú de navegación */
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+/* Contenido principal */
+main {
+    background-color: white;
+    padding: 20px;
+    margin: 20px;
+}
+
+/* Formularios */
+input, textarea {
+    padding: 5px;
+    margin-top: 5px;
+}
+
+/* Pie de página */
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
