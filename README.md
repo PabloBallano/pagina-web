@@ -32,7 +32,7 @@ El proyecto sigue la siguiente estructura de carpetas y archivos:
 
 ## Problemas durante el desarrollo
 
-Durante el desarrollo del proyecto tuve algunas dificultades, principalmente lo que me ha estado pasando durante todo el trabajo ha sido que cuando iba a comprobar la web siempre habia algún enlace que no funcionaba. También al principio del proyecto tuve un problema con la estructura de las carpetas y archivos, además de que no se me actualizaban los cambios en el repositorio de git. En general no he tenido ninguna dificultad grande que me haya retenido mucho tiempo simplemente fallos pequeños en cualquier lado que me hacían pararme y buscar que había hecho mal.
+Durante el desarrollo del proyecto tuve algunas dificultades, principalmente lo que me ha estado pasando durante todo el trabajo ha sido que cuando iba a comprobar la web siempre habia algún enlace que no funcionaba. También al principio del proyecto tuve un problema con la estructura de las carpetas y archivos, además de que no se me actualizaban los cambios en el repositorio de git. Al final también he tenido otro con las imagenes que no se me veían porque tenía mal puesto el nombre en el código. En general no he tenido ninguna dificultad grande que me haya retenido mucho tiempo simplemente fallos pequeños en cualquier lado que me hacían pararme y buscar que había hecho mal.
 ---
 
 ## Conclusiones
