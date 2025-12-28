@@ -22,7 +22,7 @@ El proyecto sigue la siguiente estructura de carpetas y archivos:
   - `fii.html`
   - `topic.html`
   - `net.html`
-  - `contacts.html`
+  - `contact.html`
 - `css/`: carpeta que contiene el archivo `styles.css` con los estilos del sitio.
 - `imagenes/`: carpeta donde se almacenan las imágenes utilizadas.
 - `README.md`: documentación del proyecto.
