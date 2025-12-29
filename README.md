@@ -5,9 +5,11 @@
 Este proyecto consiste en el desarrollo de un sitio web personal utilizando únicamente HTML y CSS.  
 El objetivo principal es mostrar los conocimientos adquiridos durante la asignatura, así como presentar información personal, académica y de interés relacionada con el grado en Ingeniería Informática.
 
-El sitio web está compuesto por varias páginas enlazadas entre sí, incluyendo una página principal, una sección sobre mí, una descripción del grado y sus asignaturas, una página dedicada a Fundamentos de la Ingeniería Informática, un tema de interés, una red de compañeros y una página de contacto con un formulario básico.
+El sitio web está compuesto por varias páginas enlazadas entre sí, incluyendo una página principal, una sección sobre mí, una descripción del grado y sus asignaturas, una página dedicada a Fundamentos de Ingeniería Informática, un tema de interés, una red de compañeros y una página de contacto con un formulario.
 
-Todo el diseño se ha realizado utilizando un único archivo CSS externo común a todas las páginas, siguiendo la estructura indicada en el enunciado.
+Todo el diseño se ha realizado utilizando un único archivo CSS externo común a todas las páginas, siguiendo la estructura indicada debajo. 
+
+En cuanto a las herramientas utilizadas, me he apoyado en los documentos de canvas y chat gpt para crear la estructura de about.html a partir de ahí y concociendo como utilizar lo básico de html he realizado el resto de los apartados solo necesitando ayuda para sentencias especiales. Por último en la parte de styles.css también me he ayudado de algún video de youtube para tener una idea clara de lo básico y a partir de ahí lo he modificado a mi gusto.
 
 ---
 
